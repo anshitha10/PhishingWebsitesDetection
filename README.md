@@ -11,12 +11,12 @@ Feature extraction from these urls are categorised into two:
 # Machine Learning Model
 Classification is a supervised machine learning process of categorizing a given set of input data into classes based on one or more variables.
 As it is a classification problem classification models are used:
->> Decision Tree
->> Random Forest
->> XGBoost
->> LightGBM
->> SVM
->> Naive Bayes
+* Decision Tree
+*  Random Forest
+*  XGBoost
+*  LightGBM
+*  SVM
+*  Naive Bayes
 # Results
 According on the above models' results, Random Forest has the highest model performance at 86.4%. Consequently, the model is stored in the file "random_forest_model.pickle.dat."
 
