@@ -18,5 +18,5 @@ As it is a classification problem classification models are used:
 *  SVM
 *  Naive Bayes
 # Results
-According on the above models' results, Random Forest has the highest model performance at 86.4%. Consequently, the model is stored in the file "random_forest_model.pickle.dat."
+According on the above models' results, Random Forest has the highest model performance at 91.4%. Consequently, the model is stored in the file "random_forest_model.pickle.dat."
 
